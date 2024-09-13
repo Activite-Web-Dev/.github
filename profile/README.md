@@ -20,4 +20,4 @@ N'hésitez pas à poser des questions et à demander de l'aide dans notre commun
 
 Amusez-vous bien et bonne programmation !
 
-<img alt="Image de développement web" src="./Web Development.png">
+<img alt="Image de développement web" src="./Web Developement.png">
