@@ -19,3 +19,5 @@ Voici quelques ressources utiles pour vous aider dans votre parcours de dévelop
 N'hésitez pas à poser des questions et à demander de l'aide dans notre communauté. Nous sommes là pour vous soutenir et vous accompagner tout au long de votre parcours.
 
 Amusez-vous bien et bonne programmation !
+
+<img alt="Image de développement web" src="./Web Development.png">
