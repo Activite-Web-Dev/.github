@@ -15,6 +15,7 @@ Voici quelques ressources utiles pour vous aider dans votre parcours de dévelop
 - [Documentation de HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [Documentation de CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
 - [Documentation de JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [Site Web - wedevit.ca](https://wedevit.ca)
 
 N'hésitez pas à poser des questions et à demander de l'aide dans notre communauté. Nous sommes là pour vous soutenir et vous accompagner tout au long de votre parcours.
 
